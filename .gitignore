@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+*.pyclast_result.json
+last_result.json
